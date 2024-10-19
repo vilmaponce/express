@@ -10,7 +10,7 @@ Aquí hay algunos videos útiles relacionados con el proyecto:
    
 # Proyecto Express
 
-Este proyecto es una aplicación web construida con Node.js y Express. 
+Proyecto construida con Node.js y Express. 
 
 ## Descripción
 
